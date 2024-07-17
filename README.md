@@ -1,9 +1,13 @@
 **Name:** Bayana Sravya Sindhu
 
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DS4330
+
 **Domain:** Machine Learning
+
 **Duration:** July to August 2024
+
 **Mentor:** Sri Lakshmi
 ## Overview of the Project
 ## Project: Implementing linear regression to predict housing prices based on features like square footage, number of bedrooms, and location.
