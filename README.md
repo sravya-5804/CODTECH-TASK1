@@ -10,7 +10,8 @@
 
 **Mentor:** Sri Lakshmi
 ## Overview of the Project
-![image](https://github.com/user-attachments/assets/b634b1d4-3ae9-4ca9-859e-c3342ebcfe69)
+![pr1](https://github.com/user-attachments/assets/d73fa378-896d-4159-b4b3-d218ba28983f)
+
 
 ## Project: Implementing linear regression to predict housing prices based on features like square footage, number of bedrooms, and location.
 ## Objective:
