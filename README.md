@@ -10,6 +10,8 @@
 
 **Mentor:** Sri Lakshmi
 ## Overview of the Project
+![image](https://github.com/user-attachments/assets/b634b1d4-3ae9-4ca9-859e-c3342ebcfe69)
+
 ## Project: Implementing linear regression to predict housing prices based on features like square footage, number of bedrooms, and location.
 ## Objective:
 The Objective of this project is top implement a linear regression model to predict housing prices based on features like square footage, number of bedrooms and location. We performed this on fetch_california_housing dataset
