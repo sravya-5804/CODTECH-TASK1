@@ -21,6 +21,9 @@ The Objective of this project is top implement a linear regression model to pred
 **Visualization:** Plotting the predicted versus actual housing prices (plt.scatter()) and visualizing the model's performance. Additionally, displaying feature importance (coefficients) to understand which features contribute most to predicting housing prices.
 ## Technologies used:
 **Python:** The primary programming language for data analysis
+
 **Pandas:** Used for data manipulation and analysis.
+
 **matplotlib:** Employed for creating static, animated and interactive visualization.
+
 **seaborn:** Used for making statistical graphics that are informative and attractive.
